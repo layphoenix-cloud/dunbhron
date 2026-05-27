@@ -25,7 +25,7 @@ const puntos = [
         descripcionCorta: `<br><strong>En gaélico:</strong> An Seann Baile<br><strong>Pronunciación:</strong> /<em>an SHOWN BAHL-yeh</em>/<br><strong>En inglés:</strong> Old Town<br><br>
 		El Casco Antiguo es la postal que vende Dunbhròn al mundo: calles empedradas que serpentean entre edificios de piedra amarilla del siglo XI, dominados por la silueta imponente del Castillo de Dunbhròn (la «Tristeza») y las agujas de la Catedral gótica de Santa Euna. Su plaza central bulle cada mañana con el mercado diario, y en verano se llena de puestos medievales y turistas con cámaras. Pero bajo esa fachada de libra esterlina y historia viva, late un corazón profundamente conservador y desconfiado. Aquí, la amabilidad de los lugareños es directamente proporcional a lo mucho que encajes en su cuadriculada visión del mundo. Si no lo haces, notarás el frío silencio, las miradas de reojo y la ausencia de sonrisas al servirte una pinta. Es el distrito de los «de toda la vida», y ellos lo saben.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 1141,
@@ -35,7 +35,7 @@ const puntos = [
 		<br><br>
 		Costa Nova es la cara moderna y aspiracional de Dunbhròn: un paseo marítimo flanqueado por hoteles de lujo, chiringuitos de playa, terrazas acristaladas y el imponente acuario con túneles submarinos. Su playa de arena oscura —volcánica en su origen, exótica en su aspecto— atrae a turistas y lugareños en busca de sol (cuando lo hay) y de vistas al Mar del Norte. Es el distrito del «ocio distinguido»: aquí se viene a ver y ser visto, a gastar dinero y a olvidar por unas horas que al otro lado de la colina está el Dunbhròn real, el de la piedra amarilla y los callejones que huelen a cerveza rancia. Los residentes permanentes son una mezcla de profesionales liberales, jubilados adinerados y personal de hostelería que vive en pisos pequeños. El ambiente es cosmopolita, relajado durante el día y ligeramente ostentoso por la noche. Pero bajo las sombrillas de colores y el olor a bronceador, también hay sitio para el misterio: el mar no perdona, y las leyendas de ahogados, sirenas y naufragios flotan en el ambiente cada vez que la niebla se adentra en la costa.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 778,
@@ -45,7 +45,7 @@ const puntos = [
 		<br><br>
 		El Corazón Roto es el distrito que nunca duerme... excepto en invierno, cuando parece un barrio fantasma. Es la válvula de escape de Dunbhròn: decenas de bares, pubs, discotecas, salones de apuestas y locales de comida rápida abiertos hasta las tantas. Durante el verano, sus calles se llenan de turistas, estudiantes y jóvenes locales que buscan emborracharse, ligar o simplemente olvidar que al día siguiente hay que madrugar. En invierno, la marea humana se retira y solo quedan los habituales: alcohólicos funcionales, noctámbulos de corazón y algún que otro desesperado. Es ruidoso, sucio, caótico y, a veces, violento. Las peleas son frecuentes, las denuncias por agresión también, y la policía patrulla con mano dura pero sin demasiada esperanza. Es el distrito que Dunbhròn prefiere no mostrar en sus folletos turísticos, pero que todo el mundo conoce. Y bajo el olor a cerveza rancia y ambientador barato, se esconde un latido sobrenatural que pocos saben leer.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 937,
@@ -55,7 +55,7 @@ const puntos = [
 		<br><br>
 		El Barrio Gótico es el rincón olvidado de la ciudad donde la piedra es negra, las calles son laberínticas y la luz del sol apenas se filtra entre los tejados puntiagudos. Aquí no vienen los turistas por error: vienen atraídos por la promesa de lo oculto, lo viejo y lo incómodo. Librerías que huelen a papel podrido, tiendas esotéricas con calderos humeantes, y un antiguo hospital psiquiátrico abandonado que se alza en el centro del distrito como un recordatorio de que la locura tiene muchas formas. Durante el día, el Barrio Gótico es sombrío pero tranquilo: estudiantes de filosofía, artistas marginales y buscadores de grimorios recorren sus calles con paso pausado. Al anochecer, las persianas se cierran, los pocos vecinos que quedan se encierran en sus casas, y algo más que la niebla comienza a moverse entre los callejones —o eso cuentan los más valientes (o locos). Es el distrito de las brujas, los vampiros y los que saben demasiado. Y es, sin duda, el favorito de los amantes del misterio... y también de sus víctimas.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 999,
@@ -65,7 +65,7 @@ const puntos = [
 		<br><br>
 		El Puerto Bajo es la tripa de Dunbhròn, el distrito que la ciudad busca esconder "bajo el felpudo". Aquí no hay piedra amarilla ni paseos marítimos: hay almacenes portuarios oxidados, astilleros semiderruidos, fábricas textiles humeantes y bloques de viviendas sociales que el viento del norte golpea sin piedad. El olor a gasoil, pescado podrido y humedad impregna cada calle. Es pobre, ruidoso y, para muchos, peligroso. Pero también es el motor económico real de la ciudad: los barcos pesqueros siguen atracando, las fábricas siguen produciendo a duras penas, y el contrabando —tabaco, alcohol, drogas, y cosas más extrañas— mantiene a flote a gran parte de la población. Los residentes son trabajadores portuarios, obreros, familias de varias generaciones atrapadas en la pobreza, y una creciente comunidad de inmigrantes (europeos del este, asiáticos y africanos) que hacen los trabajos que nadie quiere. Es el distrito de los que no tienen voz, y también el de los que no quieren ser vistos. Se dice que bajo sus calles de asfalto agrietado se esconde una red de túneles, alcantarillas y sótanos que conectan con el Barrio Gótico, y a través de ellos, con algo mucho más antiguo. Aunque nadie se ha atrevido a corroborarlo nunca.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 535,
@@ -75,7 +75,7 @@ const puntos = [
 		<br><br>
 		Los Prados es el distrito de la clase trabajadora respetable. El lugar donde la gente normal vive, trabaja y cría a sus hijos sin aspavientos. No tiene la belleza histórica del Casco Antiguo, el brillo turístico de Costa Nova, ni el caos del Corazón Roto. Es un barrio de adosados con jardincillo, centros comerciales funcionales, polideportivos públicos y calles arboladas que huelen a hierba recién cortada en verano y a hojas mojadas en otoño. Es seguro, ordenado y, para muchos, aburrido. Los residentes son profesionales de clase media (profesores, administrativos, pequeños comerciantes, funcionarios), familias jóvenes que huyeron del centro y jubilados que vendieron sus casas en otros barrios para vivir tranquilos. Es el distrito que Dunbhròn muestra a los inversores: moderno, estable y aburrido. Pero incluso en la calma más plácida, las grietas dejan ver algo más.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 182,
@@ -85,7 +85,7 @@ const puntos = [
 		<br><br>
 		Las Laderas es el distrito de los que trabajan con las manos. Un barrio residencial de clase trabajadora construido en las empinadas calles que suben desde Los Prados hacia la Cima de los Vientos, aunque sin llegar a la cima. Aquí no hay hoteles de lujo ni centros comerciales relucientes: hay casas adosadas de piedra gris, pequeños comercios de barrio, escuelas públicas y vistas parciales al valle cuando la niebla lo permite. Es un lugar tranquilo, incluso apacible, pero con una dureza silenciosa: la gente madruga, trabaja, cuida de sus mayores y no se queja. Los jóvenes suelen marcharse a la universidad o a otros distritos, y los que se quedan heredan los trabajos de sus padres: la construcción, el transporte, los pequeños talleres. Es el distrito de los olvidados, pero también el de los orgullosos. Y en sus límites superiores, donde las calles se convierten en caminos de tierra y las farolas escasean, la ciudad se desdibuja y el bosque del Robledal Negro susurra al oído de los que se acercan demasiado.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 293,
@@ -95,7 +95,7 @@ const puntos = [
 		<br><br>
 		Los Jardines es el distrito de la clase media-alta que huye del centro sin llegar a la élite de la cima. Un barrio residencial de adosados con jardín privado, calles arboladas y silenciosas, colegios concertados y pequeños comercios de barrio caros. Es limpio, ordenado, seguro y, para muchos, asfixiantemente aburrido. Sus residentes son profesionales liberales (médicos, abogados, arquitectos, pequeños empresarios), familias que quieren lo mejor para sus hijos, y jubilados con muy buenas pensiones. La violencia callejera es casi inexistente. Los índices de criminalidad son los más bajos de la ciudad —a excepción de la Cima de los Vientos—, y los problemas se resuelven con el boca a boca o, en última instancia, con denuncias al ayuntamiento. Pero bajo esa fachada de privacidad y buenas maneras, Los Jardines es también un distrito de secretos bien guardados, frustraciones silenciosas y una fragilidad nerviosa que estalla en pequeños dramas domésticos, chismorreos crueles y una desconfianza apenas disimulada hacia todo lo que venga de fuera de sus límites asfaltados.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
     {
         xPx: 85,
@@ -105,16 +105,17 @@ const puntos = [
 		<br><br>
 		La Colina del Conocimiento es el distrito del saber, la juventud y el futuro. Aquí se alza la Universidad «James Watt», sus residencias de estudiantes, la Biblioteca Central de Dunbhròn, el Hospital Universitario «Alexander Fleming», el Museo Real de Dunhbròn y decenas de cafeterías, bares y pequeños comercios que viven al ritmo de los semestres académicos. Es un distrito vibrante, multicultural y ligeramente caótico durante el curso, pero que se vacía y entristece en verano, cuando los estudiantes vuelven a sus casas y solo quedan los profesores, el personal administrativo y los alumnos de posgrado que alargan su estancia. Es el lugar más joven de la ciudad (la media de edad baja drásticamente en septiembre) y también el más abierto a nuevas ideas, lo que lo convierte en un foco de tensiones culturales con los distritos más tradicionales. Bajo su bullicio intelectual, la Colina guarda también sus propios secretos: laboratorios cerrados, bibliotecas con fondos restringidos, y una relación incómoda con el bosque que se extiende al oeste, donde los estudiantes más intrépidos (o temerarios) celebran rituales de iniciación que a veces salen mal.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
 	{
         xPx: 389,
         yPx: 453,
         nombre: `La Cima de los Vientos`,
 		descripcionCorta: `<br><strong>En gaélico:</strong> Mullach nam Gaoth<br><strong>Pronunciación:</strong> /<em>MU-lach nam GWEH</em>/<br><strong>En inglés:</strong> Peak of the Winds
-		<br><br>`,
+		<br><br>
+		La Cima de los Vientos es el distrito más exclusivo, elevado y codiciado de Dunbhròn. Literal y figurativamente. Por encima de Los Jardines, se alza este barrio de la élite. Donde el dinero no es un problema sino una condición de entrada. El nombre proviene de las fuertes ráfagas que azotan las colinas, a las que los vecinos llaman «el rugido de los vientos». Aunque todas las mansiones cuentan con barreras acústicas y cortavientos. Las calles son anchas, serpenteantes y están bordeadas de cuidados y verdes árboles centenarios. Aquí no hay adosados ni bloques de pisos de protección oficial; hay mansiones, urbanizaciones de lujo, centros comerciales privados y todos los servicios que una comunidad de élite pueda necesitar. La Cima de los Vientos es una ciudad sobre la ciudad que, suspendida en la altura, mira hacia abajo con la indiferencia que los ricos reservan para el proletariado. El resto de Dunbhròn la mira con resentimiento, admiración y deseo. Los estudiantes de sociología escriben tesis sobre segregación urbana con esta colina como ejemplo paradigmático. Aunque nunca consiguen permiso para hacer trabajo de campo.`,
         pdfUrl: `#`,
-        iconoTipo: `referencia`
+        iconoTipo: `predeterminado`
     },
 
     // ==================== CASCO ANTIGUO ====================
@@ -5059,7 +5060,9 @@ const puntos = [
         nombre: `Centro Comercial «The Heighs»`,
 		descripcionCorta: `<br><strong>En gaélico:</strong> Ionad Bhùthan «The Heighs»<br><strong>Pronunciación:</strong> /<em>EE-un-at VOO-an The Heighs</em>/<br><strong>En inglés:</strong> The Heighs Shopping Centre
 		<br><br>
-		`,
+		The Heights es el centro comercial más grande, moderno, lujoso y exclusivo de Dunbhròn. Un templo del consumo elevado a la máxima potencia. Situado en el corazón de la Cima de los Vientos, entre las cuatro urbanizaciones de lujo y a pocos minutos de las mansiones victorianas, este coloso de cristal, acero y mármol es el centro neurálgico de la vida comercial y social de la élite dunbhrònense. No es un centro comercial al uso: no hay cadenas de fast food, ni tiendas de chucherías, ni cajeros automáticos (para qué, si todos pagan con tarjeta negra), ni zonas de juegos infantiles ruidosas. Es un espacio de lujo silencioso, donde el suelo es de mármol blanco de Carrara, las lámparas son de araña de cristal de Murano, la climatización es perfecta (siempre a 22 grados) y el aroma ambiental —un sutil perfume de azahar y sándalo— se renueva cada hora mediante un sistema de difusión de alta tecnología.<br>
+		Inaugurado en 2022 (tras cuatro años de obras y un presupuesto que los arquitectos prefieren no recordar), The Heights fue diseñado por el prestigioso estudio de arquitectura Foster + Partners (el mismo del Aeropuerto de Dunbhròn y del Museo Real), que creó un edificio icónico: cuatro plantas sobre rasante (más dos sótanos de aparcamiento) con una fachada de cristal reflectante y paneles de acero inoxidable pulido que cambia de color según la luz del sol (de azul cielo a dorado a rosa). En lo alto, una torre de observación de 50 metros con un mirador acristalado al que solo pueden acceder los socios del club privado. Por la noche, la fachada se ilumina con LED de colores cambiantes, visible desde toda la ciudad (y desde el mar, en días despejados). Es el faro de riqueza que la Cima de los Vientos proyecta sobre Dunbhròn, un recordatorio constante de quién manda.<br>
+		The Heights no es solo un centro comercial. Es un ecosistema de lujo: aquí se compra, se come, se bebe, se ejercita, se visita el spa, se corta el pelo, se revisa la vista, se arregla el coche (en el taller subterráneo de alta gama), se va al médico (en la clínica privada de la tercera planta), se organizan eventos benéficos (en el salón de actos de la cuarta planta), y se socializa (en los clubes privados de la torre). Los residentes de la Cima de los Vientos no necesitan salir de The Heights para nada. Y los que no viven en la Cima ni siquiera pueden entrar: el acceso está restringido a residentes del distrito y a sus invitados, con control de identidad en la puerta. Es el centro comercial de los ricos, para los ricos, y por los ricos. Y es, sin duda, el orgullo (y el símbolo) del distrito más exclusivo de Dunbhròn.`,
         pdfUrl: `#`,
         iconoTipo: `centrocomercial`
     },
@@ -5112,7 +5115,7 @@ const puntos = [
         nombre: `El Bosque de los Faros`,
         descripcionCorta: `<br><strong>En gaélico:</strong> Coille nan Taighean-solais<br><strong>Pronunciación:</strong> /<em>KOL-yeh nan TIE-an SO-lash</em>/<br><strong>En inglés:</strong> Forest of the Lighthouses
 		<br><br>
-		El Bosque de los Faros es un lugar de belleza salvaje y atmósfera onírica, situado al norte del Casco Antiguo, más allá de las últimas casas de piedra amarilla. Es un bosque frondoso de abedules, serbales, avellanos y acebos, con el suelo alfombrado de musgo y helechos, y campanillas azules en primavera. La niebla es frecuente, envolviéndolo en una atmósfera suspendida en el tiempo, con el rumor de las olas y el viento entre las hojas como banda sonora. El bosque es famoso por sus tres faros activos (Norte, Centro y Sur), construidos entre 1824 y 1901, cuyas casas de fareros están vacías pero curiosamente cuidadas. Es también el lugar de reunión favorito de los jóvenes de Dunbhròn, que suben los fines de semana a besarse —algunos incluso con intenciones más íntimas— y a olvidarse del mundo. Aunque algunos bajan la voz y advierten: «No te alejes del coche. Y si ves luces que no son de los faros, no las sigas». El bosque ha sido foco de historios sobre hadas: criaturas inmortales, bellas y terribles, con una moralidad muy distinta a la humana, donde una ofensa puede ser una condena y un beso en la niebla el comienzo de un secuestro de cien años. Se han producido desapariciones. Pero nunca se ha podido demostrar que tengan que ver con cosas sobrenaturales.`,
+		El Bosque de los Faros es un lugar de belleza salvaje y atmósfera onírica, situado al norte del Casco Antiguo, más allá de las últimas casas de piedra amarilla. Es un bosque frondoso de abedules, serbales, avellanos y acebos, con el suelo alfombrado de musgo y helechos, y campanillas azules en primavera. La niebla es frecuente, envolviéndolo en una atmósfera suspendida en el tiempo, con el rumor de las olas y el viento entre las hojas como banda sonora. El bosque es famoso por sus tres faros activos (Norte, Centro y Sur), construidos entre 1824 y 1901, cuyas casas de fareros están vacías pero curiosamente cuidadas. Es también el lugar de reunión favorito de los jóvenes de Dunbhròn, que suben los fines de semana a besarse —algunos incluso con intenciones más íntimas— y a olvidarse del mundo. Aunque algunos bajan la voz y advierten: «No te alejes del coche. Y si ves luces que no son de los faros, no las sigas». El bosque ha sido foco de historias sobre hadas: criaturas inmortales, bellas y terribles, con una moralidad muy distinta a la humana, donde una ofensa puede ser una condena y un beso en la niebla el comienzo de un secuestro de cien años. Se han producido desapariciones. Pero nunca se ha podido demostrar que tengan que ver con cosas sobrenaturales.`,
         pdfUrl: `#`,
         iconoTipo: `bosque`
     },
@@ -5173,7 +5176,10 @@ const puntos = [
         nombre: `Círculo rúnico`,
 		descripcionCorta: `<br><strong>En gaélico:</strong> Cearcall Rùnach<br><strong>Pronunciación:</strong> /<em>KYAR-kal ROO-naj</em>/<br><strong>En inglés:</strong> Runic Circle
 		<br><br>
-		`,
+		En algún punto indeterminado del corazón del Robledal Negro, donde los robles centenarios se abren en un claro que parece esperar siempre la luna, se encuentra el Círculo Druídico de Dunbhròn. Los vecinos de la ciudad lo llaman simplemente «el Círculo», como si no mereciese otro nombre. Es un lugar de piedra y silencio, de musgo y memoria, donde los siglos se han acumulado como las hojas muertas en el suelo del bosque. Las doce piedras de granito gris se alzan en un círculo casi perfecto, algunas erguidas y firmes, y otras ligeramente inclinadas por el peso de los años. Están cubiertas de líquenes plateados y, en primavera, de pequeñas flores silvestres que crecen entre sus grietas. No hay senderos señalizados que conduzcan hasta él, ni carteles explicativos, ni barreras para protegerlo de los visitantes. Solo la red de veredas informales que unos pocos lugareños conocen de memoria y que los forasteros harían bien en recorrer con respeto y, preferiblemente, con un guía.<br>
+		Los arqueólogos de la universidad han fechado las piedras en algún momento entre la Edad del Hierro y el período picto, pero nunca han conseguido ponerse de acuerdo sobre su propósito. Algunos creen que fue un lugar de ceremonias religiosas. Otros un templo al aire libre donde los antiguos sacerdotes ofrecían sacrificios a los dioses. Y otros sostienen que era un observatorio astronómico: un calendario de piedra que marcaba los solsticios y los equinoccios. Un par de profesores jubilados de la Facultad de Historia defienden que no era ninguna de esas cosas, sino simplemente un lugar de encuentro: un punto neutral donde las tribus de la región se reunían sin temor a traiciones para intercambiar mercancías, celebrar matrimonios y resolver disputas. Lo que nadie discute es que el lugar posee una calma especial, como si las piedras hubieran absorbido décadas de silencio y ahora lo devolvieran en forma de paz.<br>
+		El círculo druídico no es un destino turístico. Y es bastante raro ver a visitantes o naturalistas por estos bosques, a excepción de las rutas guiadas que algún grupo muy osado haya contratado. Los dunbhrònenses, especialmente los de Los Jardines y los de la Colina del Conocimiento (los barrios más cercanos al bosque), conocen y evitan el círculo. Y a sus hijos —al menos el que los tiene—, desde muy pequeños, se les insiste en que no se acerquen, sobre todo de noche. En la entrada de algunos senderos, el ayuntamiento ha colocado carteles de advertencia por la presencia ocasional de jabalíes, osos y por el riesgo de desprendimientos en zonas de terreno inestable. Los guardas forestales que han trabajado décadas en los límites del Robledal Negro conocen la norma no escrita: <br>
+		«<em>Si alguien se adentra en el bosque con malas intenciones y no sale al atardecer, no entres a buscarlo. Espera hasta la mañana siguiente. Entonces, llama a la policía. Pero no esperes encontrar a nadie con vida. El bosque es hermoso, pero no perdona ni a los imprudentes ni a los de corazón oscuro</em>».`,
         pdfUrl: `#`,
         iconoTipo: `runas`
     },
@@ -5244,7 +5250,7 @@ const emojis = {
     casaSocial: `🏚️`,
     casino: `🎰`,
     castillo: `🏰`,
-    cementerio: `🪦`,
+    cementerio: `💀`,
     centralTermica: `⚡`,
     centrocomercial: `🏬`,
     centromedico: `🩺`,

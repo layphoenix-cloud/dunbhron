@@ -38,7 +38,7 @@ body {
     position: absolute;
     width: 16px;
     height: 16px;
-    background-color: #ff3366;
+    background-color: #000000;
     border: 2px solid white;
     border-radius: 50%;
     transform: translate(-50%, -50%);
@@ -50,7 +50,7 @@ body {
 
 .marcador:hover {
     transform: translate(-50%, -50%) scale(1.3);
-    background-color: #ff6680;
+    background-color: #ffff00;
 }
 
 /* Marcador con emoji (fondo blanco y borde rosa) */
