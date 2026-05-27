@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    transform-origin: top center;
+    font-family: 'Segoe UI', sans-serif;
+    background: #1e1e2f;
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.mapa-container {
+    position: relative;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.mapa-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Punto rojo clásico */
+.marcador {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-color: #ff3366;
+    border: 2px solid white;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    transition: transform 0.1s ease;
+    z-index: 10;
+}
+
+.marcador:hover {
+    transform: translate(-50%, -50%) scale(1.3);
+    background-color: #ff6680;
+}
+
+/* Marcador con emoji (fondo blanco y borde rosa) */
+.marcador-emoji {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    background-color: #ffffff;
+    border: 2px solid #ff3366;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    transition: transform 0.1s ease;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.marcador-emoji:hover {
+    transform: translate(-50%, -50%) scale(1.2);
+    background-color: #000000;
+}
+
+/* Tooltip antiguo (ya no se usa, lo manejamos con tippy) */
+.tooltip {
+    display: none;
+}
+
+/* Tema cyberpunk para tippy */
+.tippy-box[data-theme~='cyberpunk'] {
+    background-color: #ff0055;
+    color: #00ffcc;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    border: 2px solid #00ffcc;
+    border-radius: 0px;
+    box-shadow: 0 0 15px #ff0055;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.tippy-box[data-theme~='cyberpunk'] .tippy-arrow {
+    color: #ff0055;
+}
+
+.tippy-box[data-theme~='cyberpunk'][data-placement^='top'] > .tippy-arrow::before {
+    border-top-color: #00ffcc;
+}
+
+/* Tema fantasía oscura para tippy */
+.tippy-box[data-theme~='fantasia-oscura'] {
+    background-color: #1a1612;
+    color: #e6dccf;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-weight: normal;
+    font-size: 13px;
+    border: 1px solid #a57c4c;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(100, 70, 40, 0.3) inset;
+    text-transform: none;
+    letter-spacing: 0.3px;
+    backdrop-filter: blur(2px);
+}
+
+.tippy-box[data-theme~='fantasia-oscura'] .tippy-content {
+    padding: 8px 12px;
+}
+
+.tippy-box[data-theme~='fantasia-oscura'] .tippy-arrow {
+    color: #1a1612;
+}
+
+.tippy-box[data-theme~='fantasia-oscura'][data-placement^='top'] > .tippy-arrow::before {
+    border-top-color: #a57c4c;
+}
+
+.tippy-box[data-theme~='fantasia-oscura'][data-placement^='bottom'] > .tippy-arrow::before {
+    border-bottom-color: #a57c4c;
+}
+
+.tippy-box[data-theme~='fantasia-oscura'][data-placement^='left'] > .tippy-arrow::before {
+    border-left-color: #a57c4c;
+}
+
+.tippy-box[data-theme~='fantasia-oscura'][data-placement^='right'] > .tippy-arrow::before {
+    border-right-color: #a57c4c;
+}
+
+.tippy-box[data-theme~='fantasia-oscura']:hover {
+    border-color: #c6905a;
+    transition: border-color 0.2s ease;
+}
+
+h2 {
+	color: #6c7f8c;
+}
+
+strong {
+	color: #c6905a;
+}
