@@ -3540,6 +3540,19 @@ const puntos = [
         pdfUrl: `#`,
         iconoTipo: `casaSocial`
     },
+	{
+        xPx: 1159,
+        yPx: 762,
+        nombre: `Club: El Jardín de las Delicias`,
+		descripcionCorta: `<br><strong>En gaélico:</strong> Club: Gàrradh nam Milseanan<br><strong>Pronunciación:</strong> /<em>KLUB GAH-rakh nam MEEL-shen-an</em>/<br><strong>En inglés:</strong> Club: The Garden of Delights<br><br>
+		El Jardín de las Delicias es uno de los secretos a voces más conocidos —y también más vergonzosos— de Dunbhròn. Se trata de un club de alterne ilegal, escondido en un callejón sin salida del distrito. A apenas 200 metros de la refinería, rodeado de naves industriales abandonadas y talleres textiles en desuso. No es un burdel de lujo ni un club de carretera con pretensiones de elegancia. Es un antro cutre, marginal y peligroso, pero extraordinariamente popular entre los hombres (y también alguna mujer) de la ciudad que buscan sexo de pago sin preguntas ni complicaciones.<br>
+		Su nombre oficioso es «Jardín de las Delicias», aunque la mayoría de los dunbhrònenses lo llaman simplemente «el Jardín» o «la fábrica», por estar alojado en un viejo local industrial reconvertido. El cartel de neón rosa que anuncia el local insinúa, con su tipografía curvilínea y el dibujo de una silueta femenina, que podría tratarse de un pub con strippers. Pero todo el mundo sabe bien lo que ocurre dentro. Nadie ha intervenido nunca. Es uno de esos rumores que corren como la pólvora entre la población, pero que nadie quiere comentar por el qué dirán («Vaya, ¿y tú cómo sabes eso? Seguro que has ido y por eso lo sabes...»). La policía local lo conoce, pero hace la vista gorda (quizás porque algunos agentes son clientes habituales). La dueña, una mujer de mediana edad con un pasado como prostituta y una habilidad innata para los negocios ilegales, lleva décadas al frente del local y ha sobrevivido a redadas, competidores y mala prensa.<br>
+		El local no es solo un club de alterne. Es mucho más. Con una visión empresarial que no entiende de licencias ni de leyes, la dueña derribó la pared que separaba su establecimiento de una fábrica abandonada contigua, ampliando así el negocio. En la nueva sección (la antigua fábrica) habilitó veinte habitaciones ilegales, diez a cada lado de un largo pasillo, donde las trabajadoras atienden a los clientes. 
+		Hay rumores que dicen que bajo la fábrica, en un sótano muy protegido, tiene un pequeño laboratorio de drogas (cocaína, metanfetamina y otras sustancias de diseño) que luego vende a su clientela más selecta. También se cuenta que ese local, por su disposición, tiene un acceso oculto que conecta con la red de túneles y pasadizos subterráneos de la ciudad, utilizado por contrabandistas y por quienes desean evitar las cámaras de vigilancia callejeras. Nadie ha podido acercarse lo suficiente como para comprobarlo.<br>
+		El Jardín de las Delicias no es solo un club de alterne. Es un emporio del vicio. Una mancha de aceite podrido en el corazón industrial de Dunbhròn.`,
+        pdfUrl: `#`,
+        iconoTipo: `club`
+    },
 
     // ==================== LOS PRADOS ====================
 
@@ -5140,6 +5153,22 @@ const puntos = [
         pdfUrl: `#`,
         iconoTipo: `aeropuerto`
     },
+	{
+        xPx: 1011,
+        yPx: 992,
+        nombre: `Parque de Bomberos del Aeropuerto`,
+		descripcionCorta: `<br><strong>En gaélico:</strong> Ionad-smàlaidh Port-adhair Dhùn Bhròn<br><strong>Pronunciación:</strong> /<em>EE-un-at SMAH-lay PORT-a-yar GHOO-n VRO-in</em>/<br><strong>En inglés:</strong> Dunbhròn Airport Fire Station
+		<br><br>
+		El Parque de Bomberos del Puerto es una instalación moderna y estratégica situada a escasos 500 metros del recinto del Aeropuerto de Dunbhròn. Su misión principal es garantizar la seguridad contra incendios del aeropuerto, con tiempos de respuesta inferiores a tres minutos (el estándar internacional). Como misión secundaria (y mucho menos frecuente), también cubre parte de la zona poblada del distrito industrial y, en casos excepcionales, el Puerto Bajo y el Corazón Roto (cuando los parques de bomberos de esos distritos están desbordados). Es un parque pequeño pero altamente especializado, con vehículos adaptados para emergencias aeroportuarias: camiones nodriza con espuma, vehículos de extinción rápida y un camión de rescate técnico.<br>
+		El edificio se construyó entre 2012 y 2015, coincidiendo con la ampliación del aeropuerto y la modernización de la zona industrial. Es de estilo funcional (hormigón visto, paneles de acero, grandes puertas seccionales), sin concesiones a la estética, pero con una eficiencia energética notable (paneles solares en el tejado, iluminación LED, sistemas de recuperación de calor). Fue financiado por el ayuntamiento de Dunbhròn (con una subvención del gobierno escocés) y por la empresa gestora del aeropuerto, que aportó el 30% del presupuesto. Hoy es una instalación de referencia en la región, reconocida por su rapidez de respuesta y por la profesionalidad de sus bomberos.
+		<br>
+		Los efectivos de este parque son especialistas en emergencias aeronáuticas (incendios de aeronaves, rescates en pista, derrames de combustible), pero también están entrenados para incendios industriales (almacenes de productos químicos, refinería) y para rescates en altura (disponen de un camión con escalera de 30 metros). Son los bomberos mejor pagados de Dunbhròn por su especialización y el riesgo asociado, pero también los que atienden menos siniestros (los accidentes de avión son raros). La mayor parte de su tiempo la pasan entrenando, realizando simulacros y manteniendo a punto los vehículos. El aburrimiento es su peor enemigo. Pero cuando ocurre una emergencia, son los primeros en llegar y los más eficaces.<br>
+		El parque cuenta con personal de guardia las 24 horas dentro de las instalaciones. Los vehículos permanecen siempre listos: con el depósito lleno, el equipo de respiración cargado y las herramientas revisadas.
+
+`,
+        pdfUrl: `#`,
+        iconoTipo: `bomberos`
+    },
     {
         xPx: 674,
         yPx: 996,
@@ -5198,23 +5227,32 @@ const puntos = [
 		descripcionCorta: `<br><strong>En gaélico:</strong> Abhainn Coire<br><strong>Pronunciación:</strong> /<em>AV-in KO-re</em>/<br><strong>En inglés:</strong> Corrie River`,
         pdfUrl: `#`,
         iconoTipo: `rio`
-    }/*,
-    {
-        xPx: 236,
-        yPx: 460,
-        nombre: `Mansión victoriana: 1`,
-        descripcionCorta: `<br><strong>En gaélico:</strong> Bun-sgoil «a' Chnuic Gaoithe<br><strong>Pronunciación:</strong> /<em>Bun-sgoyl «*a* Jní-ck Gúi-je»</em>/<br><strong>En inglés:</strong> Windyhill Primary`,
-        pdfUrl: `#`,
-        iconoTipo: `predeterminado`
     },
     {
         xPx: 246,
         yPx: 372,
-        nombre: `Mansión victoriana: 2`,
-        descripcionCorta: `<br><strong>En gaélico:</strong> Bun-sgoil «a' Chnuic Gaoithe<br><strong>Pronunciación:</strong> /<em>Bun-sgoyl «*a* Jní-ck Gúi-je»</em>/<br><strong>En inglés:</strong> Windyhill Primary`,
+        nombre: "Ravenstone Manor",
+		descripcionCorta: `<br><strong>En gaélico:</strong> Taigh Mòr na Cloiche Fithich<br><strong>Pronunciación:</strong> /<em>TIE MOR na KLO-chuh FEE-hee</em>/<br><strong>En inglés:</strong> Ravenstone Manor
+		<br><br>
+		Ravenstone Manor es la menor de las dos residencias victorianas situadas en lo más alto de la Cima de los Vientos, casi lindando con el Robledal Negro. Fue erigida en 1875 para un poderoso industrial textil de la Escocia victoriana. A lo largo de los años, ha cambiado de dueño en varias ocasiones. Hoy pertenece a Lord Angus Blake, un aristócrata nonagenario, viudo y sin herederos directos (sus hijos fallecieron jóvenes en circunstancias que en su momento la prensa calificó de "extrañas"). Blake reside en la propiedad desde 1985, cuando la recibió por herencia de su tío abuelo, el último de los Blake en tener descendencia. Es un hombre huraño, de rutinas inamovibles y salud frágil —o al menos eso es lo que se comenta—. Apenas traspasa los límites de su hogar, aunque de cuando en cuando recibe visitas: su abogado, su médico y algún que otro hombre —o mujer— trajeada que nadie conoce. El resto del tiempo lo dedica a su biblioteca (que alberga más de 5.000 volúmenes, algunos de ellos antiguos manuscritos), a su jardín (atendido por tres jardineros a jornada completa) o al mirador acristalado de la torre; desde donde divisa toda la ciudad y el mar.<br>
+		Los residentes de la Cima le profesan respeto, y también cierto recelo. El servicio doméstico (mayordomo, cocinera, limpiadora y jefe de jardineros) lleva décadas a su cargo y practica una discreción absoluta; los contratos de confidencialidad que firmaron incluyen cláusulas de silencio perpetuo.<br>
+		Aunque Ravenstone Manor sea la más pequeña de las dos mansiones, no significa que sea una vivienda modesta. Es un imponente edificio de piedra arenisca gris, de tres plantas más sótano y torreón, con 1.500 metros cuadrados construidos y un jardín de dos hectáreas que incluye piscina climatizada, pista de tenis e invernadero. Para los parámetros comunes, se trata de una mansión enorme. Dentro de la Cima de los Vientos, sin embargo, se la considera «discreta», sobre todo si se compara con Highcliff Hall, la finca vecina de 2.500 metros cuadrados. Los habitantes de la Cima la llaman «la casa del lord» o «la mansión de los Blake». Es uno de los emblemas del poder de la vieja aristocracia en Dunbhròn.`,
         pdfUrl: `#`,
         iconoTipo: `predeterminado`
-    }*/
+    },
+    {
+        xPx: 236,
+        yPx: 460,
+        nombre: "Highcliff Hall",
+		descripcionCorta: `<br><strong>En gaélico:</strong> Talla Highcliff<br><strong>Pronunciación:</strong> /<em>TAL-uh HIGH-cliff</em>/<br><strong>En inglés:</strong> Highcliff Hall
+		<br><br>
+		Highcliff Hall es la residencia más grandiosa e imponente de la Cima de los Vientos. Un verdadero palacio que corona la parte más elevada del distrito, casi en el límite con el Robledal Negro, y que ofrece vistas panorámicas de toda la ciudad y del mar. Erigida en 1858 para un magnate naviero victoriano, Sir William Campbell, fue cedido a la familia Farnsworth a modo de "pago de una deuda". Hoy pertenece a Lord John Farnsworth: un aristócrata de 78 años, casado en segundas nupcias con una mujer joven y ambiciosa de 35 años, Lady Victoria Farnsworth —se desconoce su apellido de soltera; aunque las malas lenguas aseguran que es una Farnsworth—.<br>
+		Lord John es un hombre de mundo: ha viajado por todo el planeta, domina seis idiomas, colecciona arte (desde pintura renacentista hasta escultura contemporánea)... A diferencia del huraño Lord Byron, Farnsworth es extrovertido, afable y generoso con el dinero (o al menos así lo aparenta). Con frecuencia organiza galas benéficas en su mansión en apoyo de causas como la Cruz Roja, el hospital infantil o la protección de animales. Eventos a los que asiste la flor y nata de la sociedad dunbhrònense. Highcliff Hall es el epicentro de la vida social en la Cima de los Vientos, y Lord John, su anfitrión perfecto.<br>
+		Sin embargo, como ocurre con toda gran mansión, la de los Farnsworth guarda sus propios misterios. Se rumorea que Lord John podría estar implicado en el tráfico de antigüedades o de objetos de valor a través de sus contactos en el puerto. Y aunque estas acusaciones a día de hoy son completamente infundadas, las sospechas persisten. Por ahora, Lord John sigue organizando sus fiestas benéficas y los vecinos de la Cima continúan asistiendo, ajenos —a conciencia o no— a los rumores que rodean a su anfitrión.<br>
+		Highcliff Hall es la mayor de las dos mansiones de la colina. Se trata de una mole de piedra arenisca gris de cuatro plantas (más sótano y dos torres), que se asienta en una parcela de 5 hectáreas en lo alto del promontorio. Cuenta con 2.500 metros cuadrados construidos: un jardín de 3 hectáreas (dotado de piscina climatizada, pista de tenis, invernadero y un pequeño lago artificial) y una torre de observación de 20 metros desde la que se divisa toda la ciudad. Para los estándares de la Cima, esta propiedad es inmensa; para cualquier otro lugar, es directamente un palacio. Los residentes del distrito la conocen como «la casa de los Farnsworth» o «el palacio de Castlebrae». Highcliff Hall es el máximo exponente del poder de la nueva aristocracia en Dunbhròn, pues los Farnsworth son una familia de nuevos ricos que lograron ennoblecerse en el siglo XIX.`,
+        pdfUrl: `#`,
+        iconoTipo: `predeterminado`
+    }
 ];
 
 // ========================================================
@@ -5255,6 +5293,7 @@ const emojis = {
     centrocomercial: `🏬`,
     centromedico: `🩺`,
     chiringuito: `🎪`,
+	club: `🔞`,
     colegio: `🎒`,
     comisaria: `👮`,
     discoteca: `🎧`,
